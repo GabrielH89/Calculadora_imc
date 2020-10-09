@@ -1,0 +1,119 @@
+/*Estilização da página index.php*/
+.nav {
+	left: 450px;
+}
+
+.form-group label {
+	font-size: 30px;
+}
+
+.form-group #selectSexo {
+	width: 400px;
+}
+
+.navbar {
+	font-size: 20px;
+}
+
+.page-footer {
+	margin-top: 48px;
+	background-color: #696969;
+	color: white;
+	padding: 30px;
+}
+
+.page-footer p {
+	text-align: center;
+	font-size: 20px;
+}
+
+.footer-copyright {
+	font-size: 20px;
+}
+
+/*Estilização da página lista_usuario.php*/
+
+.table {
+	font-size: 15px;
+}
+
+input[name=hide-users-feminino] {
+	width: 150px;
+	height: 40px;
+	cursor: pointer;
+	border: none;
+	background-color: #FF69B4;	
+	color: white;
+	font-size: 19px;
+}
+
+input[name=show-users-feminino] {
+	width: 150px;
+	height: 40px;
+	cursor: pointer;
+	border: none;
+	background-color: #FF69B4;	
+	color: white;
+	font-size: 19px;
+	display: none;
+}
+
+input[name=hide-users-masculino] {
+	width: 150px;
+	height: 40px;
+	cursor: pointer;
+	border: none;
+	background-color: #4682B4;	
+	color: white;
+	font-size: 19px;
+}
+
+input[name=show-users-masculino] {
+	width: 150px;
+	height: 40px;
+	cursor: pointer;
+	border: none;
+	background-color: #4682B4;	
+	color: white;
+	font-size: 19px;
+	display: none;
+}
+
+input[name=calcular] {
+	width: 200px;
+	height: 45px;
+	font-size: 20px;
+	margin-left: 10px;
+	color: white;
+	background-color: #708090;
+	border: none;
+	cursor: pointer;
+}
+
+
+/*Estilização da página sobre.php*/
+#sobre-conteudo p {
+	text-align: justify;
+    text-indent: 50px; 
+}
+
+/*Estilização da página fale_conosco.php*/
+#fale_conosco_mensagem {
+	width: 400px;
+	height: 100px;
+}
+
+input[name=enviar_mensagem] {
+	width: 200px;
+	height: 45px;
+	font-size: 20px;
+	margin-left: 10px;
+	color: white;
+	background-color: #708090;
+	border: none;
+	cursor: pointer;
+}
+
+
+
+

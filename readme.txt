@@ -1,0 +1,1 @@
+Este projeto foi desenvolvido em javascript, php, bootstrap e HTML. Sua função é calcular o IMC dos usuários e salvar os resultados e informações referentes a estes no banco de dados. Ademais, o sistema conta com uma página onde será possível visualizar o nome e o resultado de todos que calcularam o seus respevtivos IMC, além de uma página para críticas e sugestões.
